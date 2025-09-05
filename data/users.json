@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "membership": "premium"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "membership": "standard"
+    },
+    {
+        "id": 3,
+        "name": "Carol Lee",
+        "email": "carol.lee@example.com",
+        "membership": "premium"
+    }
+]
