@@ -1,0 +1,24 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "This is a library management API backed for the management of users and the books",
+  "main": "index.js",
+   "scripts": {
+    "start":"node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neha-56rgd/library-management-system.git"
+  },
+  "author": "Neha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neha-56rgd/library-management-system/issues"
+  },
+  "homepage": "https://github.com/Neha-56rgd/library-management-system#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
